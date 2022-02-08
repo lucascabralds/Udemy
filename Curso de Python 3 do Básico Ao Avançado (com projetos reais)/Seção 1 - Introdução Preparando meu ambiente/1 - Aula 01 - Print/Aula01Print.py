@@ -7,5 +7,6 @@ print('João', 'e', 'Maria', sep='-')  # A sintaxe end si consistem qual valor v
 """
 Exercicio abaixo de apresenta um cpf aleatorio
 """
+
 print(123, 456, 789, sep=".", end="-")
 print(10)
